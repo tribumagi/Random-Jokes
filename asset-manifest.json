@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Random-Jokes/static/css/main.0d928699.css",
-    "main.js": "/Random-Jokes/static/js/main.5bf567cc.js",
+    "main.js": "/Random-Jokes/static/js/main.a3323e4f.js",
     "static/media/logo.svg": "/Random-Jokes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Random-Jokes/index.html",
     "main.0d928699.css.map": "/Random-Jokes/static/css/main.0d928699.css.map",
-    "main.5bf567cc.js.map": "/Random-Jokes/static/js/main.5bf567cc.js.map"
+    "main.a3323e4f.js.map": "/Random-Jokes/static/js/main.a3323e4f.js.map"
   },
   "entrypoints": [
     "static/css/main.0d928699.css",
-    "static/js/main.5bf567cc.js"
+    "static/js/main.a3323e4f.js"
   ]
 }
