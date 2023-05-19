@@ -1,0 +1,9 @@
+.joke {
+    width: 300px;
+
+    margin: 10px;
+    position: relative;
+    display: flex;
+    gap:10px;
+
+}
